@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p1411canvasview" />
+            <option value="$PROJECT_DIR$/p1421drawingfigure" />
+            <option value="$PROJECT_DIR$/p1431drawingpath" />
+            <option value="$PROJECT_DIR$/p1441matrixtransform" />
+            <option value="$PROJECT_DIR$/p1451matrixtransform2" />
+            <option value="$PROJECT_DIR$/p1461canvastransform" />
+            <option value="$PROJECT_DIR$/p1471region" />
+            <option value="$PROJECT_DIR$/p1481canvasclip" />
+            <option value="$PROJECT_DIR$/p1491canvastext" />
+            <option value="$PROJECT_DIR$/p1501pathmeasure" />
+            <option value="$PROJECT_DIR$/p1511patheffect" />
+            <option value="$PROJECT_DIR$/p1521picture" />
+            <option value="$PROJECT_DIR$/p1531colorfilter" />
+            <option value="$PROJECT_DIR$/p1541porterduff" />
+            <option value="$PROJECT_DIR$/p1551porterduffcolorfilter" />
+            <option value="$PROJECT_DIR$/p1571bitmapread" />
+            <option value="$PROJECT_DIR$/p1581bitmapcreate" />
+            <option value="$PROJECT_DIR$/p1591bitmapoptions" />
+            <option value="$PROJECT_DIR$/p1601bitmaplarge" />
+            <option value="$PROJECT_DIR$/p1611bitmapcache" />
+            <option value="$PROJECT_DIR$/p1621drawableshape" />
+            <option value="$PROJECT_DIR$/p1631drawablebitmapandother" />
+            <option value="$PROJECT_DIR$/p1641drawablelevellistandother" />
+            <option value="$PROJECT_DIR$/p1651shader" />
+            <option value="$PROJECT_DIR$/p1661customdrawable" />
+            <option value="$PROJECT_DIR$/p1671savelayer" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
